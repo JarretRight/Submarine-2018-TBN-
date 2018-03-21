@@ -1,5 +1,5 @@
-# Submarine-2018-TBN-
-Submarine-2018 project code
+# Polaris
+Polaris project code
 
 ## Getting Started
 To get started developing for this project, follow the instructions below
